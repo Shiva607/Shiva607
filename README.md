@@ -1,6 +1,18 @@
-# 💫 About Me:
+<div align="center">
 
-I’m **Shiva Sankar J**, an IT professional and **Full-Stack Web Developer** with over **4 years of experience** building scalable and user-focused web applications. I specialise in **React** on the frontend and **Node.js** on the backend, with a strong understanding of REST APIs, database design, and modern development workflows. I focus on writing clean, maintainable code and building solutions that solve real-world problems.<br><br>I have hands-on experience working on **production-grade full-stack applications**, covering features such as authentication, role-based access, data management, business workflows, and API integrations. Alongside development, I also have knowledge of **testing and automation**, and I actively use **AI tools** to improve productivity, code quality, and problem-solving efficiency. I’m continuously learning and upgrading my skills through **Udemy certifications** and practical implementation.<br><br>I’m passionate about technology, enjoy exploring new tools and frameworks, and believe in continuous improvement.<br>**Feel free to connect or reach out if you have any questions or would like to collaborate.**
+# 💫 About Me
+
+</div>
+
+I'm **Shiva Sankar J**, an IT professional and **Full-Stack Web Developer** with over **4 years of experience** building scalable and user-focused web applications. I specialise in **React** on the frontend and **Node.js** on the backend, with a strong understanding of REST APIs, database design, and modern development workflows. I focus on writing clean, maintainable code and building solutions that solve real-world problems.
+
+I have hands-on experience working on **production-grade full-stack applications**, covering features such as authentication, role-based access, data management, business workflows, and API integrations. Alongside development, I also have knowledge of **testing and automation**, and I actively use **AI tools** to improve productivity, code quality, and problem-solving efficiency. I'm continuously learning and upgrading my skills through **Udemy certifications** and practical implementation.
+
+I'm passionate about technology, enjoy exploring new tools and frameworks, and believe in continuous improvement.
+
+**Feel free to connect or reach out if you have any questions or would like to collaborate.**
+
+---
 
 <div align="center">
 
@@ -94,10 +106,12 @@ I’m **Shiva Sankar J**, an IT professional and **Full-Stack Web Developer** wi
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
+  <img alt="Skills Animation" src="./Skills_Animation_White.gif">
 </picture>
 
 </div>
+
+---
 
 <div align="center">
 
@@ -106,9 +120,9 @@ I’m **Shiva Sankar J**, an IT professional and **Full-Stack Web Developer** wi
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shiva607&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="180" style="vertical-align: top;" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shiva607&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shiva607&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="180" style="vertical-align: top;" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shiva607&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="180" />
 </p>
 
 <br/>
@@ -116,7 +130,10 @@ I’m **Shiva Sankar J**, an IT professional and **Full-Stack Web Developer** wi
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva607&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 </div>
+
+---
 
 <div align="center">
 
@@ -126,37 +143,42 @@ I’m **Shiva Sankar J**, an IT professional and **Full-Stack Web Developer** wi
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<br/>
-
 </div>
 
-<!-- Contact Section -->
-<h2 align="center">🌐 Connect With Me 🤝</h2>
+---
+
+<div align="center">
+
+## 🌐 Connect With Me 🤝
+
+<br/>
 
 <p align="center">
   <a href="mailto:jshivasankar607@gmail.com">
-    <img src="./gmail.png" width="50" height="50" alt="Email" style="vertical-align: middle; border: none;" />
+    <img src="./gmail.png" width="50" height="50" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/shiva_sankar_j/" target="_blank">
-    <img src="./instagram.png" width="50" height="50" alt="Instagram" style="vertical-align: middle; border: none;" />
+    <img src="./instagram.png" width="50" height="50" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shiva-sankar-j-147288184/" target="_blank">
-    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="vertical-align: middle; border: none;" />
+    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Shiva607" target="_blank">
-    <img src="./github.png" width="50" height="50" alt="GitHub" style="vertical-align: middle; border: none;" />
+    <img src="./github.png" width="50" height="50" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/your_twitter_handle" target="_blank">
-    <img src="./twitter.png" width="50" height="50" alt="Twitter" style="vertical-align: middle; border: none;" />
+    <img src="./twitter.png" width="50" height="50" alt="Twitter" />
   </a>
 </p>
-<br/>
 
-<!--Footer-->
+</div>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
