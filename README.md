@@ -19,29 +19,29 @@ I’m **Shiva Sankar J**, an IT professional and **Full-Stack Web Developer** wi
 <!-- Contact Section -->
 <h2 align="center">🌐 Connect With Me 🤝</h2>
 
-<table align="center">
+<table align="center" style="border: none;">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="mailto:jshivasankar607@gmail.com">
         <img src="./gmail.png" width="50" height="50" alt="Email" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://www.instagram.com/shiva_sankar_j/" target="_blank">
         <img src="./instagram.png" width="50" height="50" alt="Instagram" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://www.linkedin.com/in/shiva-sankar-j-147288184/" target="_blank">
         <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://github.com/Shiva607" target="_blank">
         <img src="./github.png" width="50" height="50" alt="GitHub" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://x.com/your_twitter_handle" target="_blank">
         <img src="./twitter.png" width="50" height="50" alt="Twitter" />
       </a>
