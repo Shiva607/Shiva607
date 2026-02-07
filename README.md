@@ -17,11 +17,11 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 
 <div align="center">
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <br/>
 
-### Languages
+### **Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
@@ -32,7 +32,7 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
 
-### Frontend
+### **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
@@ -47,7 +47,7 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 
-### Backend
+### **Backend**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) 
@@ -57,7 +57,7 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
 
-### Cloud & Hosting
+### **Cloud & Hosting**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
@@ -65,13 +65,13 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 
-### Database
+### **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 
-### Testing
+### **Testing**
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) 
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e) 
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) 
@@ -80,7 +80,7 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=flat&logo=Jasmine&logoColor=white) 
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white)
 
-### DevOps & Tools
+### D**evOps & Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) 
@@ -96,7 +96,7 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD) 
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
 
-### Project Management & Design
+### **Project Management & Design**
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
@@ -117,7 +117,7 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 
 <div align="center">
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <br/>
 
@@ -140,7 +140,7 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 
 <div align="center">
 
-## ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 
 <br/>
 
@@ -153,7 +153,7 @@ I'm passionate about technology, enjoy exploring new tools and frameworks, and b
 
 <div align="center">
 
-## 🌐 Connect With Me 🤝
+# 🌐 Connect With Me 🤝
 
 <br/>
 
