@@ -19,26 +19,31 @@ I’m **Shiva Sankar J**, an IT professional and **Full-Stack Web Developer** wi
 <!-- Contact Section -->
 <h2 align="center">🌐 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
-<div align="center" style="margin: 30px 0; letter-spacing: 12px;">
+<div align="center" style="margin: 30px 0;">
 
 <a href="mailto:jshivasankar607@gmail.com" target="_blank">
-  <img src="./gmail.png" width="50" height="50" alt="Email" style="margin-bottom: 5px;"/>
+  <img src="./gmail.png" width="50" height="50" alt="Email"
+       style="margin: 0 10px 5px 10px;" />
 </a>
 
 <a href="https://www.instagram.com/shiva_sankar_j/" target="_blank">
-  <img src="./instagram.png" width="50" height="50" alt="Instagram" style="margin-bottom: 5px;"/>
+  <img src="./instagram.png" width="50" height="50" alt="Instagram"
+       style="margin: 0 10px 5px 10px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/shiva-sankar-j-147288184/" target="_blank">
-  <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin-bottom: 5px;"/>
+  <img src="./linkedin.png" width="50" height="50" alt="LinkedIn"
+       style="margin: 0 10px 5px 10px;" />
 </a>
 
 <a href="https://github.com/Shiva607" target="_blank">
-  <img src="./github.png" width="50" height="50" alt="GitHub" style="margin-bottom: 5px;" />
+  <img src="./github.png" width="50" height="50" alt="GitHub"
+       style="margin: 0 10px 5px 10px;" />
 </a>
 
 <a href="https://example.com" target="_blank">
-  <img src="./twitter.png" width="50" height="50" alt="Twitter" style="margin-bottom: 5px;"/>
+  <img src="./twitter.png" width="50" height="50" alt="Twitter"
+       style="margin: 0 10px 5px 10px;" />
 </a>
 
 </div>
