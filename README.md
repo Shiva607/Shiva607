@@ -17,31 +17,29 @@ I’m **Shiva Sankar J**, an IT professional and **Full-Stack Web Developer** wi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Contact Section -->
-<h2 align="center">🌐 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<h2 align="center">🌐 Connect With Me 🤝</h2>
 
-<div align="center">
-
-<a href="mailto:jshivasankar607@gmail.com" style="text-decoration: none;">
-  <img src="./gmail.png" width="50" height="50" alt="Email" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/shiva_sankar_j/" target="_blank" style="text-decoration: none;">
-  <img src="./instagram.png" width="50" height="50" alt="Instagram" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shiva-sankar-j-147288184/" target="_blank" style="text-decoration: none;">
-  <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Shiva607" target="_blank" style="text-decoration: none;">
-  <img src="./github.png" width="50" height="50" alt="GitHub" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/your_twitter_handle" target="_blank" style="text-decoration: none;">
-  <img src="./twitter.png" width="50" height="50" alt="Twitter" />
-</a>
-
-</div>
+<p align="center">
+  <a href="mailto:jshivasankar607@gmail.com">
+    <img src="./gmail.png" width="50" height="50" alt="Email" />
+  </a>
+  <img width="20" />
+  <a href="https://www.instagram.com/shiva_sankar_j/" target="_blank">
+    <img src="./instagram.png" width="50" height="50" alt="Instagram" />
+  </a>
+  <img width="20" />
+  <a href="https://www.linkedin.com/in/shiva-sankar-j-147288184/" target="_blank">
+    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" />
+  </a>
+  <img width="20" />
+  <a href="https://github.com/Shiva607" target="_blank">
+    <img src="./github.png" width="50" height="50" alt="GitHub" />
+  </a>
+  <img width="20" />
+  <a href="https://x.com/your_twitter_handle" target="_blank">
+    <img src="./twitter.png" width="50" height="50" alt="Twitter" />
+  </a>
+</p>
 <br/>
 
 <!--Footer-->
