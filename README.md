@@ -12,9 +12,17 @@ I’m **Shiva Sankar J**, an IT professional and **Full-Stack Web Developer** wi
 ![](https://nirzak-streak-stats.vercel.app/?user=Shiva607&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva607&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+<div align="center">
+
+## ✍️ Random Dev Quote
+
+<br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br/>
+
+</div>
 
 <!-- Contact Section -->
 <h2 align="center">🌐 Connect With Me 🤝</h2>
