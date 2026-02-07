@@ -1,6 +1,8 @@
 ![Shiva607 Banner Image](./banner.png)
 
-# ɪ'ᴍ sʜɪᴠᴀ sᴀɴᴋᴀʀ ᴊ! *Full Stack Developer / QA Automation Expert*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ sʜɪᴠᴀ sᴀɴᴋᴀʀ ᴊ! 
+*Digital Craftsman (Developer / Programmer)*
+<br />
 
 I am a Full Stack Developer and QA Automation Specialist with over **4 years of experience** building scalable and user-focused web applications. I specialize in **React** on the frontend and **Node.js** on the backend, with strong expertise in REST APIs, database design, testing frameworks, and modern development workflows.
 
