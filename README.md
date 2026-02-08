@@ -14,7 +14,7 @@ I am a Full Stack Developer and QA Automation Specialist with over **4 years of 
 - 📚 Continuously upskilling through Udemy certifications and practical implementation
 - 🎯 Focused on writing clean, maintainable, and scalable code
 - ❤ Passionate about technology and solving real-world problems
-- 💻 Visit my [Portfolio](https://github.com/Shiva607) for more details about me
+- 💻 Visit my [Portfolio](https://github.com/shivasj-codes) for more details about me
 
 **Feel free to connect or reach out if you have any questions or would like to collaborate.**
 
