@@ -1,4 +1,4 @@
-![Shiva607 Banner Image](./banner.png)
+![shivasj-codes Banner Image](./banner.png)
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ sʜɪᴠᴀ sᴀɴᴋᴀʀ ᴊ! 
 *Digital Craftsman (Developer / Programmer)*
@@ -6,15 +6,15 @@
 
 I am a Full Stack Developer and QA Automation Specialist with over **4 years of experience** building scalable and user-focused web applications. I specialize in **React** on the frontend and **Node.js** on the backend, with strong expertise in REST APIs, database design, testing frameworks, and modern development workflows.
 
-- ✨ Lifelong learner and tech enthusiast :)
-- 🌱 Currently exploring advanced testing automation and cloud technologies
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="20"/> Lifelong learner and tech enthusiast :)
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" width="20"/> Currently exploring advanced testing automation and cloud technologies
 - 💼 Hands-on experience with production-grade full-stack applications
 - 🔧 Building features: authentication, role-based access, data management, business workflows, API integrations
-- 🤖 Leveraging AI tools to enhance productivity and code quality
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="20"/> Leveraging AI tools to enhance productivity and code quality
 - 📚 Continuously upskilling through Udemy certifications and practical implementation
-- 🎯 Focused on writing clean, maintainable, and scalable code
-- ❤ Passionate about technology and solving real-world problems
-- 💻 Visit my [Portfolio](https://github.com/shivasj-codes) for more details about me
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="20"/> Focused on writing clean, maintainable, and scalable code
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" width="20"/> Passionate about technology and solving real-world problems
+- 🔧 Visit my [Portfolio](https://github.com/shivasj-codes) for more details about me
 
 **Feel free to connect or reach out if you have any questions or would like to collaborate.**
 
@@ -22,11 +22,11 @@ I am a Full Stack Developer and QA Automation Specialist with over **4 years of 
 
 <!--Profile Count Badge-->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shiva607&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shivasj-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Shiva607?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/shivasj-codes?label=Followers&style=social" alt="GitHub followers" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/Shiva607?label=Stars&style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/stars/shivasj-codes?label=Stars&style=social" alt="GitHub stars" />
 </p>
 
 <br/>
@@ -138,15 +138,15 @@ I am a Full Stack Developer and QA Automation Specialist with over **4 years of 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shiva607&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivasj-codes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shiva607&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivasj-codes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="180" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva607&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivasj-codes&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 </div>
@@ -186,7 +186,7 @@ I am a Full Stack Developer and QA Automation Specialist with over **4 years of 
     <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Shiva607" target="_blank">
+  <a href="https://github.com/shivasj-codes" target="_blank">
     <img src="./github.png" width="50" height="50" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
